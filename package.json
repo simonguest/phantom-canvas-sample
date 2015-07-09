@@ -1,0 +1,15 @@
+{
+  "name": "phantom-canvas-sample",
+  "version": "1.0.0",
+  "description": "Sample to show PhantomJS rendering image from HTML5 Canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Guest <me@simonguest.com> (http://github.com/simonguest)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.13.1",
+    "phantom": "^0.7.2"
+  }
+}
